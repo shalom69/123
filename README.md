@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bnt4v7ecw5t15or6?svg=true)](https://ci.appveyor.com/project/CapZeleni/testapi1)
